@@ -8,9 +8,9 @@ ___
 ___
 ### Шаги по воспроизведению:
 
-+Перейти по ссылке https://www.avito.ru/moskva/velosipedy
++ Перейти по ссылке https://www.avito.ru/moskva/velosipedy
 
-+Выбрать режим отображения объявлений на карте
++ Выбрать режим отображения объявлений на карте
 ___
 ### Подробное описание:
 
@@ -38,3 +38,5 @@ ___
 ## `Высокая`
 
 ### Вложения:
+
+![Header](https://github.com/GitHoms/Avito-Internship-assignments-2025/blob/main/Assets/Task%231-bugID%231.jpg?raw=true)
