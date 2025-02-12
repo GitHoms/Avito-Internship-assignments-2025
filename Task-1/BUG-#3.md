@@ -8,6 +8,7 @@ ___
 ### Шаги по воспроизведению:
 - Перейти по ссылке 
 https://www.avito.ru/moskva/velosipedy?=brandon
+- Переключить режим сортировки на `Дороже`
 
 ___
 ### Подробное описание:
@@ -48,4 +49,4 @@ ___
 
 ### Вложения:
 
-![Header]()
+![Header](https://github.com/GitHoms/Avito-Internship-assignments-2025/blob/main/Assets/Task%231-bugID%233.jpg?raw=true)
