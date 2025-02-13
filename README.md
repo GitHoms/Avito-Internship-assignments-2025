@@ -45,6 +45,7 @@ ___
 
 ### Скрины:
 
-![Header]()
-![Header]()
-![Header]()
+### Пустые страницы
+![Header](https://github.com/GitHoms/Avito-Internship-assignments-2025/blob/main/Assets/EmptyP.jpg?raw=true)
+### Пирожки
+![Header](https://github.com/GitHoms/Avito-Internship-assignments-2025/blob/main/Assets/real.jpg?raw=true)
